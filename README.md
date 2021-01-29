@@ -2,8 +2,12 @@
 
 - 投影片 https://github.com/ceasar-sun/cohack-tw.PPEIIS/blob/master/Proposal_PPEIIS.slides.pdf
 - 提案短片
-  - 影片中文版 https://youtu.be/vDnNwMyUBHg
-  - 影片英文版 https://youtu.be/QHSO-w2OBwY
+  - LBRY
+    - 中文版 https://odysee.com/@SciDM.NCHC:a/2020_cohack-tw.PPEIIS.Cht
+    - 英文版 https://odysee.com/@SciDM.NCHC:a/2020_cohack-tw.PPEIIS.Eng
+  - Youtube
+    - 中文版 https://youtu.be/vDnNwMyUBHg
+    - 英文版 https://youtu.be/QHSO-w2OBwY
   
 ## 內容簡述
 透過彙整雲端發票資料,進行資料分析與模型預測,輔以群眾參與即時回報機制,建立一個民政兼用之PPE 物資供需資訊系統。
